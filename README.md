@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full stack developer with 6+ years of IT experience as Software developer, well versed with MEAN stack<br>technologies (Angular 12+ , NodeJS (NestJS)), cloud technologies such as Azure, AWS and database (MongoDB), also GIT and<br>Project Management processes (agile), I have worked mainly in Medical Healthcare and e-commerce domain. I am a dedicated,<br>hardworking, quick learner and problem solver
+I’m a Full stack developer with 8+ years of IT experience as Software developer, well versed with MEAN stack<br>technologies (Angular 12+ , NodeJS (NestJS)), cloud technologies such as Azure, AWS and database (MongoDB), also GIT and<br>Project Management processes (agile), I have worked mainly in Medical Healthcare and e-commerce domain. I am a dedicated,<br>hardworking, quick learner and problem solver
 
 
 ## 🌐 Socials:
